@@ -1,0 +1,14 @@
+.hover-square-card {
+  width: 200px;
+  height: 2rem;
+  border-radius: 5px;
+  background-color: burlywood;
+  border: coral 1px solid;
+  margin: 0.2rem;
+  display: flex;
+  align-items: center;
+  span {
+    color: chocolate;
+    margin: 1rem;
+  }
+}
